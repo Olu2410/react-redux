@@ -34,5 +34,3 @@ const persistedTodoReducer = persistReducer(persistConfig, todoReducer );
       },
     }),
 });
-
-
